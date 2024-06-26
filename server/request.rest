@@ -1,0 +1,3 @@
+POST http://localhost:5000/api/check?url=https://twitter.com
+
+

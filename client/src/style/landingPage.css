@@ -1,0 +1,26 @@
+.landing-page{
+    background-color: #23212138;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+.land-heading{
+    position: absolute;
+    font-size:70px;
+    color: #ffffffb4;
+}
+.land-btn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: none;
+    font-size: xx-large;
+    padding: 15px;
+    background-color: #23212138;
+}
+.land-btn a{
+    text-decoration: none;
+    color: #fff;
+}
